@@ -3,5 +3,5 @@
 
 | ProfessorId  | ProfessorName |
 | ------------- | ------------- |
-| 1  | 이현아  |
-| 2  | 김영원  |
+| 1  | Gil Dong, Hong  |
+| 2  | Sa Ddo, Kim |
